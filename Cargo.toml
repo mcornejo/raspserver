@@ -1,0 +1,11 @@
+[package]
+name = "raspserver"
+version = "0.1.0"
+authors = ["Mario Cornejo <mario.cornejo@ens.fr>"]
+
+[dependencies]
+iron = "0.4.*"
+rand = "*"
+serde = "0.9.11"
+serde_derive = "0.9.11"
+serde_json = "0.9.9"
